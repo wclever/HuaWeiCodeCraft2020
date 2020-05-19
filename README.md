@@ -189,3 +189,36 @@
 #### 感想
 
 > 自己做比赛的确精力不够，很多算法思路自己都没来得及实现，听大家交流经验发现其实这些思路的确有很多作用，获得很多代码风格和性能优化的tips，而且终于知道为什么同一个解题方法，实现的数据结构和代码流程不同，效率会有天差地别，初赛前排大佬0.01s～后排1000s，复赛数据集28w----200w，结果由289w----2000w，排行榜的时间变为1.7s～1000s，差距差的很大，有良好的代码格式和意识很重要。
+
+#### 大佬的分析总结
+
+* [华为软件精英挑战赛-2020-初赛复赛-题目分析/算法Baseline （求出有向图中所有的环）](https://zhuanlan.zhihu.com/p/125764650)
+
+* [华为2020软件精英挑战赛成渝赛区初赛赛后方案分享](https://blog.csdn.net/qq_34914551/article/details/105788200)
+
+* [记2020年华为软件精英挑战赛（初赛)](https://zhuanlan.zhihu.com/p/136785097)
+
+* [武长赛区hust_1037参赛经验](https://github.com/trybesthbk/HuaweiCodeCraft2020)
+
+* [2020华为软件精英挑战赛-武长赛区-团队“您吃了么”初赛/复赛代码分享](https://github.com/liuwentao1992/HuaWei_CodeCraft_2020)
+
+#### 各赛区前排大佬开源
+
+* [My thoughts of 2020 Huawei Code Craft.----ddd](https://github.com/justarandomstring/2020-Huawei-Code-Craft)
+
+* [2020华为软挑初赛粤港澳赛区第一，复赛粤港澳赛区A榜第一解决方案](https://github.com/cxq80803716/2020codecraft)
+
+* [2020华为软挑初赛武长赛区第一，复赛武长赛区A榜第二解决方案](https://github.com/yoghurt-lee/HuaWeiCodeCraft2020)
+
+* [华为2020软件精英挑战赛复赛代码开源-京津东北赛区1504b,复赛Ａ榜 rank1](https://github.com/WavenZ/CodeCraft2020)
+
+* [粤港澳复赛A榜第2，全国第12](https://github.com/CodeCraft2020/CodeCraft2020)
+
+#### 其他
+
+* [民间测试数据集](https://github.com/liusen1006/2020HuaweiCodecraft-TestData)
+
+* [ddd2020](https://github.com/justarandomstring/2020-Huawei-Code-Craft)
+
+* [数据生成](https://github.com/byl0561/HWcode2020-TestData)
+
